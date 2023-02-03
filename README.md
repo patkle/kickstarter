@@ -4,7 +4,7 @@ This project currently only consists of one spider.
 
 This project can be hosted on Scrapy Cloud.  
 It uses Zyte Smart Proxy Manager.  
-The dataset can be found [here.](https://www.kaggle.com/datasets/patkle/most-funded-kickstarter-projects).  
+The dataset can be found [here](https://www.kaggle.com/datasets/patkle/most-funded-kickstarter-projects).  
 A Jupyter Notebook with some EDA on that data can be found [here](https://www.kaggle.com/patkle/kickstarter-s-most-funded-projects/edit).  
 
 ## Spider: most_funded
